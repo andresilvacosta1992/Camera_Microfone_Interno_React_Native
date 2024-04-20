@@ -1,2 +1,9 @@
-<uses-permission android:name="android.permission.CAMERA" />
-<uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="camera.microfone.interno">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+
+</manifest>
